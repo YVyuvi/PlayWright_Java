@@ -1,0 +1,14 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://freelance-learn-automation.vercel.app",
+      "localStorage": [
+        {
+          "name": "cart",
+          "value": "[]"
+        }
+      ]
+    }
+  ]
+}
